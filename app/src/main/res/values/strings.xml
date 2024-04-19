@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FlashCards</string>
+    <string name="what_is_the_name_of_my_cat">What is the name of my cat</string>
+    <string name="what_country_are_we_in">What country are we in?</string>
+    <string name="what_is_the_best_browser">What is the best browser?</string>
+    <string name="flip">Flip</string>
+    <string name="cat_name">Galaxy</string>
+    <string name="country_answer">USA</string>
+    <string name="browser_answer">Internet Explorer</string>
+</resources>
